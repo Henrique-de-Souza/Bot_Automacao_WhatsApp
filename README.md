@@ -11,7 +11,9 @@ embora eu ame o desenvolvimento web também.
 Ao rodar o código, seremos redirecionado para a página web: https://web.whatsapp.com/
 onde, nosso usuário deverá fazer o login com o qr code
 
+
 ![image](https://github.com/Henrique-de-Souza/Bot_Automacao_WhatsApp/assets/148600312/95b609d3-dc3b-4859-b077-ee5d540aa619)
+
 
 Para ficar mais dinânico, integrei a capacidade do usuário receber feedbacks do andamento da automação no terminal,
 conforme os processos vão seguindo:
